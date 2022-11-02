@@ -49,4 +49,4 @@ The console will be a tool to validate this storage engine.
 * manipulate your objects via a RESTful API
 
 ## 0x06 Author
-* onolameh Daniel
+* Daniel Muthama
